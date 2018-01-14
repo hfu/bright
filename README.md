@@ -1,2 +1,2 @@
 # bright
-OSM Bright on GitHub Pages
+OSM Bright for GitHub Pages
