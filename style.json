@@ -1,9 +1,14 @@
 {
   "version": 8,
+  "center": [
+    135.0,
+    35.0
+  ],
+  "zoom": 5,
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://example.com/SOMEWHERE/tile.json"
+      "url": "https://hfu.github.io/SOMEWHERE/tile.json"
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
