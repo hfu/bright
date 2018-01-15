@@ -3228,7 +3228,8 @@
             ]
           ]
         }
-      }
+      },
+      "minzoom": 4
     },
     {
       "id": "boundary-land-level-2",
@@ -3280,7 +3281,8 @@
             ]
           ]
         }
-      }
+      },
+      "minzoom": 4
     },
     {
       "id": "boundary-land-disputed",
